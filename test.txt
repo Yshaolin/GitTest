@@ -1,8 +1,6 @@
 Hello Git
-<<<<<<< HEAD
 master branch add new commit
 get a mergence problem
-=======
 new branch develop
 fix a issue
->>>>>>> develop
+
