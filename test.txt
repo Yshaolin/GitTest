@@ -2,6 +2,5 @@ Hello Git
 new branch develop
 
 test push develop to master
-fix a issue
 
-add 
+add some things
