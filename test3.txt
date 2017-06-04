@@ -1,3 +1,2 @@
 new a file 
-test rebase
-test rebase 
+rebase
